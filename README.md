@@ -1,7 +1,7 @@
 # Cloud Beginner CI/CD + GitHub Pages
 
 ## Live Website
-[Open the Website](https://ayatramy.github.io/cloud-beginner-cicd-pages-AyatAllah-ElBetar/)
+[Open the Website](https://ayatramy.github.io/cloud-beginner-cicd-pages-AyatAllah-ELBetar/)
 
 ## How it works
 Every push to the main branch triggers GitHub Actions.
